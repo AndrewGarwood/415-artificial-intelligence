@@ -1,6 +1,6 @@
 # 415-artificial-intelligence (Fall 2019) (Python)
 My solutions to assignments from the course "Introduction to Artificial Intelligence"
-Not pretty, much to reformat. Still has interesting material.
+#### Not pretty; Among others, there are formatting errors that need correcting in order to follow proper style guides. Still has interesting material.
 
 ### a2: Basic Problem-Solving Techniques, and Problem Formulation 
 
